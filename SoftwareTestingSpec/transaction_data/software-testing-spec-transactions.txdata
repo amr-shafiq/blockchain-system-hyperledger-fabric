@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "softwareTestingSpecExists",
+        "transactionLabel": "A test softwareTestingSpecExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createSoftwareTestingSpec",
+        "transactionLabel": "A test createSoftwareTestingSpec transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readSoftwareTestingSpec",
+        "transactionLabel": "A test readSoftwareTestingSpec transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateSoftwareTestingSpec",
+        "transactionLabel": "A test updateSoftwareTestingSpec transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteSoftwareTestingSpec",
+        "transactionLabel": "A test deleteSoftwareTestingSpec transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
